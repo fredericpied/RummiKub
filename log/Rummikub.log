@@ -1,0 +1,1166 @@
+20141123 20:21:23 DEBUG Partie: Debut initialisation
+20141123 20:21:44 DEBUG Partie: Debut initialisation
+20141123 20:21:44 TRACE Partie: Ajout plaque Rdd
+20141123 20:21:44 TRACE Partie: Ajout plaque Bdd
+20141123 20:21:44 TRACE Partie: Ajout plaque Jdd
+20141123 20:21:44 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 DEBUG Partie: Debut initialisation
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 TRACE Partie: Ajout plaque Rdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Bdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Jdd
+20141123 20:22:09 TRACE Partie: Ajout plaque Ndd
+20141123 20:22:09 DEBUG Partie: Fin initialisation
+20141123 20:24:20 DEBUG Partie: Debut initialisation
+20141123 20:24:20 TRACE Partie: Ajout plaque R000
+20141123 20:24:20 TRACE Partie: Ajout plaque B000
+20141123 20:24:20 TRACE Partie: Ajout plaque J000
+20141123 20:24:20 TRACE Partie: Ajout plaque N000
+20141123 20:24:20 TRACE Partie: Ajout plaque R001
+20141123 20:24:20 TRACE Partie: Ajout plaque B001
+20141123 20:24:20 TRACE Partie: Ajout plaque J001
+20141123 20:24:20 TRACE Partie: Ajout plaque N001
+20141123 20:24:20 TRACE Partie: Ajout plaque R002
+20141123 20:24:20 TRACE Partie: Ajout plaque B002
+20141123 20:24:20 TRACE Partie: Ajout plaque J002
+20141123 20:24:20 TRACE Partie: Ajout plaque N002
+20141123 20:24:20 TRACE Partie: Ajout plaque R003
+20141123 20:24:20 TRACE Partie: Ajout plaque B003
+20141123 20:24:20 TRACE Partie: Ajout plaque J003
+20141123 20:24:20 TRACE Partie: Ajout plaque N003
+20141123 20:24:20 TRACE Partie: Ajout plaque R004
+20141123 20:24:20 TRACE Partie: Ajout plaque B004
+20141123 20:24:20 TRACE Partie: Ajout plaque J004
+20141123 20:24:20 TRACE Partie: Ajout plaque N004
+20141123 20:24:20 TRACE Partie: Ajout plaque R005
+20141123 20:24:20 TRACE Partie: Ajout plaque B005
+20141123 20:24:20 TRACE Partie: Ajout plaque J005
+20141123 20:24:20 TRACE Partie: Ajout plaque N005
+20141123 20:24:20 TRACE Partie: Ajout plaque R006
+20141123 20:24:20 TRACE Partie: Ajout plaque B006
+20141123 20:24:20 TRACE Partie: Ajout plaque J006
+20141123 20:24:20 TRACE Partie: Ajout plaque N006
+20141123 20:24:20 TRACE Partie: Ajout plaque R007
+20141123 20:24:20 TRACE Partie: Ajout plaque B007
+20141123 20:24:20 TRACE Partie: Ajout plaque J007
+20141123 20:24:20 TRACE Partie: Ajout plaque N007
+20141123 20:24:20 TRACE Partie: Ajout plaque R008
+20141123 20:24:20 TRACE Partie: Ajout plaque B008
+20141123 20:24:20 TRACE Partie: Ajout plaque J008
+20141123 20:24:20 TRACE Partie: Ajout plaque N008
+20141123 20:24:20 TRACE Partie: Ajout plaque R009
+20141123 20:24:20 TRACE Partie: Ajout plaque B009
+20141123 20:24:20 TRACE Partie: Ajout plaque J009
+20141123 20:24:20 TRACE Partie: Ajout plaque N009
+20141123 20:24:20 TRACE Partie: Ajout plaque R010
+20141123 20:24:20 TRACE Partie: Ajout plaque B010
+20141123 20:24:20 TRACE Partie: Ajout plaque J010
+20141123 20:24:20 TRACE Partie: Ajout plaque N010
+20141123 20:24:20 TRACE Partie: Ajout plaque R011
+20141123 20:24:20 TRACE Partie: Ajout plaque B011
+20141123 20:24:20 TRACE Partie: Ajout plaque J011
+20141123 20:24:20 TRACE Partie: Ajout plaque N011
+20141123 20:24:20 TRACE Partie: Ajout plaque R012
+20141123 20:24:20 TRACE Partie: Ajout plaque B012
+20141123 20:24:20 TRACE Partie: Ajout plaque J012
+20141123 20:24:20 TRACE Partie: Ajout plaque N012
+20141123 20:24:20 TRACE Partie: Ajout plaque R013
+20141123 20:24:20 TRACE Partie: Ajout plaque B013
+20141123 20:24:20 TRACE Partie: Ajout plaque J013
+20141123 20:24:20 TRACE Partie: Ajout plaque N013
+20141123 20:24:20 DEBUG Partie: Fin initialisation
+20141123 20:24:44 DEBUG Partie: Debut initialisation
+20141123 20:24:44 TRACE Partie: Ajout plaque R00
+20141123 20:24:44 TRACE Partie: Ajout plaque B00
+20141123 20:24:44 TRACE Partie: Ajout plaque J00
+20141123 20:24:44 TRACE Partie: Ajout plaque N00
+20141123 20:24:44 TRACE Partie: Ajout plaque R01
+20141123 20:24:44 TRACE Partie: Ajout plaque B01
+20141123 20:24:44 TRACE Partie: Ajout plaque J01
+20141123 20:24:44 TRACE Partie: Ajout plaque N01
+20141123 20:24:44 TRACE Partie: Ajout plaque R02
+20141123 20:24:44 TRACE Partie: Ajout plaque B02
+20141123 20:24:44 TRACE Partie: Ajout plaque J02
+20141123 20:24:44 TRACE Partie: Ajout plaque N02
+20141123 20:24:44 TRACE Partie: Ajout plaque R03
+20141123 20:24:44 TRACE Partie: Ajout plaque B03
+20141123 20:24:44 TRACE Partie: Ajout plaque J03
+20141123 20:24:44 TRACE Partie: Ajout plaque N03
+20141123 20:24:44 TRACE Partie: Ajout plaque R04
+20141123 20:24:44 TRACE Partie: Ajout plaque B04
+20141123 20:24:44 TRACE Partie: Ajout plaque J04
+20141123 20:24:44 TRACE Partie: Ajout plaque N04
+20141123 20:24:44 TRACE Partie: Ajout plaque R05
+20141123 20:24:44 TRACE Partie: Ajout plaque B05
+20141123 20:24:44 TRACE Partie: Ajout plaque J05
+20141123 20:24:44 TRACE Partie: Ajout plaque N05
+20141123 20:24:44 TRACE Partie: Ajout plaque R06
+20141123 20:24:44 TRACE Partie: Ajout plaque B06
+20141123 20:24:44 TRACE Partie: Ajout plaque J06
+20141123 20:24:44 TRACE Partie: Ajout plaque N06
+20141123 20:24:44 TRACE Partie: Ajout plaque R07
+20141123 20:24:44 TRACE Partie: Ajout plaque B07
+20141123 20:24:44 TRACE Partie: Ajout plaque J07
+20141123 20:24:44 TRACE Partie: Ajout plaque N07
+20141123 20:24:44 TRACE Partie: Ajout plaque R08
+20141123 20:24:44 TRACE Partie: Ajout plaque B08
+20141123 20:24:44 TRACE Partie: Ajout plaque J08
+20141123 20:24:44 TRACE Partie: Ajout plaque N08
+20141123 20:24:44 TRACE Partie: Ajout plaque R09
+20141123 20:24:44 TRACE Partie: Ajout plaque B09
+20141123 20:24:44 TRACE Partie: Ajout plaque J09
+20141123 20:24:44 TRACE Partie: Ajout plaque N09
+20141123 20:24:44 TRACE Partie: Ajout plaque R10
+20141123 20:24:44 TRACE Partie: Ajout plaque B10
+20141123 20:24:44 TRACE Partie: Ajout plaque J10
+20141123 20:24:44 TRACE Partie: Ajout plaque N10
+20141123 20:24:44 TRACE Partie: Ajout plaque R11
+20141123 20:24:44 TRACE Partie: Ajout plaque B11
+20141123 20:24:44 TRACE Partie: Ajout plaque J11
+20141123 20:24:44 TRACE Partie: Ajout plaque N11
+20141123 20:24:44 TRACE Partie: Ajout plaque R12
+20141123 20:24:44 TRACE Partie: Ajout plaque B12
+20141123 20:24:44 TRACE Partie: Ajout plaque J12
+20141123 20:24:44 TRACE Partie: Ajout plaque N12
+20141123 20:24:44 TRACE Partie: Ajout plaque R13
+20141123 20:24:44 TRACE Partie: Ajout plaque B13
+20141123 20:24:44 TRACE Partie: Ajout plaque J13
+20141123 20:24:44 TRACE Partie: Ajout plaque N13
+20141123 20:24:44 DEBUG Partie: Fin initialisation
+20141123 20:25:52 DEBUG Partie: Debut initialisation
+20141123 20:25:52 TRACE Partie: Ajout plaque R00
+20141123 20:25:52 TRACE Partie: Ajout plaque B00
+20141123 20:25:52 TRACE Partie: Ajout plaque J00
+20141123 20:25:52 TRACE Partie: Ajout plaque N00
+20141123 20:25:52 TRACE Partie: Ajout plaque R01
+20141123 20:25:52 TRACE Partie: Ajout plaque B01
+20141123 20:25:52 TRACE Partie: Ajout plaque J01
+20141123 20:25:52 TRACE Partie: Ajout plaque N01
+20141123 20:25:52 TRACE Partie: Ajout plaque R02
+20141123 20:25:52 TRACE Partie: Ajout plaque B02
+20141123 20:25:52 TRACE Partie: Ajout plaque J02
+20141123 20:25:52 TRACE Partie: Ajout plaque N02
+20141123 20:25:52 TRACE Partie: Ajout plaque R03
+20141123 20:25:52 TRACE Partie: Ajout plaque B03
+20141123 20:25:52 TRACE Partie: Ajout plaque J03
+20141123 20:25:52 TRACE Partie: Ajout plaque N03
+20141123 20:25:52 TRACE Partie: Ajout plaque R04
+20141123 20:25:52 TRACE Partie: Ajout plaque B04
+20141123 20:25:52 TRACE Partie: Ajout plaque J04
+20141123 20:25:52 TRACE Partie: Ajout plaque N04
+20141123 20:25:52 TRACE Partie: Ajout plaque R05
+20141123 20:25:52 TRACE Partie: Ajout plaque B05
+20141123 20:25:52 TRACE Partie: Ajout plaque J05
+20141123 20:25:52 TRACE Partie: Ajout plaque N05
+20141123 20:25:52 TRACE Partie: Ajout plaque R06
+20141123 20:25:52 TRACE Partie: Ajout plaque B06
+20141123 20:25:52 TRACE Partie: Ajout plaque J06
+20141123 20:25:52 TRACE Partie: Ajout plaque N06
+20141123 20:25:52 TRACE Partie: Ajout plaque R07
+20141123 20:25:52 TRACE Partie: Ajout plaque B07
+20141123 20:25:52 TRACE Partie: Ajout plaque J07
+20141123 20:25:52 TRACE Partie: Ajout plaque N07
+20141123 20:25:52 TRACE Partie: Ajout plaque R08
+20141123 20:25:52 TRACE Partie: Ajout plaque B08
+20141123 20:25:52 TRACE Partie: Ajout plaque J08
+20141123 20:25:52 TRACE Partie: Ajout plaque N08
+20141123 20:25:52 TRACE Partie: Ajout plaque R09
+20141123 20:25:52 TRACE Partie: Ajout plaque B09
+20141123 20:25:52 TRACE Partie: Ajout plaque J09
+20141123 20:25:52 TRACE Partie: Ajout plaque N09
+20141123 20:25:52 TRACE Partie: Ajout plaque R10
+20141123 20:25:52 TRACE Partie: Ajout plaque B10
+20141123 20:25:52 TRACE Partie: Ajout plaque J10
+20141123 20:25:52 TRACE Partie: Ajout plaque N10
+20141123 20:25:52 TRACE Partie: Ajout plaque R11
+20141123 20:25:52 TRACE Partie: Ajout plaque B11
+20141123 20:25:52 TRACE Partie: Ajout plaque J11
+20141123 20:25:52 TRACE Partie: Ajout plaque N11
+20141123 20:25:52 TRACE Partie: Ajout plaque R12
+20141123 20:25:52 TRACE Partie: Ajout plaque B12
+20141123 20:25:52 TRACE Partie: Ajout plaque J12
+20141123 20:25:52 TRACE Partie: Ajout plaque N12
+20141123 20:25:52 TRACE Partie: Ajout plaque R13
+20141123 20:25:52 TRACE Partie: Ajout plaque B13
+20141123 20:25:52 TRACE Partie: Ajout plaque J13
+20141123 20:25:52 TRACE Partie: Ajout plaque N13
+20141123 20:25:52 DEBUG Partie: Fin initialisation
+20141123 20:25:52 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:27:05 DEBUG Partie: Debut initialisation
+20141123 20:27:05 TRACE Partie: Ajout plaque R00
+20141123 20:27:05 TRACE Partie: Ajout plaque B00
+20141123 20:27:05 TRACE Partie: Ajout plaque J00
+20141123 20:27:05 TRACE Partie: Ajout plaque N00
+20141123 20:27:05 TRACE Partie: Ajout plaque R01
+20141123 20:27:05 TRACE Partie: Ajout plaque B01
+20141123 20:27:05 TRACE Partie: Ajout plaque J01
+20141123 20:27:05 TRACE Partie: Ajout plaque N01
+20141123 20:27:05 TRACE Partie: Ajout plaque R02
+20141123 20:27:05 TRACE Partie: Ajout plaque B02
+20141123 20:27:05 TRACE Partie: Ajout plaque J02
+20141123 20:27:05 TRACE Partie: Ajout plaque N02
+20141123 20:27:05 TRACE Partie: Ajout plaque R03
+20141123 20:27:05 TRACE Partie: Ajout plaque B03
+20141123 20:27:05 TRACE Partie: Ajout plaque J03
+20141123 20:27:05 TRACE Partie: Ajout plaque N03
+20141123 20:27:05 TRACE Partie: Ajout plaque R04
+20141123 20:27:05 TRACE Partie: Ajout plaque B04
+20141123 20:27:05 TRACE Partie: Ajout plaque J04
+20141123 20:27:05 TRACE Partie: Ajout plaque N04
+20141123 20:27:05 TRACE Partie: Ajout plaque R05
+20141123 20:27:05 TRACE Partie: Ajout plaque B05
+20141123 20:27:05 TRACE Partie: Ajout plaque J05
+20141123 20:27:05 TRACE Partie: Ajout plaque N05
+20141123 20:27:05 TRACE Partie: Ajout plaque R06
+20141123 20:27:05 TRACE Partie: Ajout plaque B06
+20141123 20:27:05 TRACE Partie: Ajout plaque J06
+20141123 20:27:05 TRACE Partie: Ajout plaque N06
+20141123 20:27:05 TRACE Partie: Ajout plaque R07
+20141123 20:27:05 TRACE Partie: Ajout plaque B07
+20141123 20:27:05 TRACE Partie: Ajout plaque J07
+20141123 20:27:05 TRACE Partie: Ajout plaque N07
+20141123 20:27:05 TRACE Partie: Ajout plaque R08
+20141123 20:27:05 TRACE Partie: Ajout plaque B08
+20141123 20:27:05 TRACE Partie: Ajout plaque J08
+20141123 20:27:05 TRACE Partie: Ajout plaque N08
+20141123 20:27:05 TRACE Partie: Ajout plaque R09
+20141123 20:27:05 TRACE Partie: Ajout plaque B09
+20141123 20:27:05 TRACE Partie: Ajout plaque J09
+20141123 20:27:05 TRACE Partie: Ajout plaque N09
+20141123 20:27:05 TRACE Partie: Ajout plaque R10
+20141123 20:27:05 TRACE Partie: Ajout plaque B10
+20141123 20:27:05 TRACE Partie: Ajout plaque J10
+20141123 20:27:05 TRACE Partie: Ajout plaque N10
+20141123 20:27:05 TRACE Partie: Ajout plaque R11
+20141123 20:27:05 TRACE Partie: Ajout plaque B11
+20141123 20:27:05 TRACE Partie: Ajout plaque J11
+20141123 20:27:05 TRACE Partie: Ajout plaque N11
+20141123 20:27:05 TRACE Partie: Ajout plaque R12
+20141123 20:27:05 TRACE Partie: Ajout plaque B12
+20141123 20:27:05 TRACE Partie: Ajout plaque J12
+20141123 20:27:05 TRACE Partie: Ajout plaque N12
+20141123 20:27:05 TRACE Partie: Ajout plaque R13
+20141123 20:27:05 TRACE Partie: Ajout plaque B13
+20141123 20:27:05 TRACE Partie: Ajout plaque J13
+20141123 20:27:05 TRACE Partie: Ajout plaque N13
+20141123 20:27:05 DEBUG Partie: Fin initialisation
+20141123 20:27:05 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:38:08 DEBUG Partie: Debut initialisation
+20141123 20:38:08 TRACE Partie: Ajout plaque R00
+20141123 20:38:08 TRACE Partie: Ajout plaque B00
+20141123 20:38:08 TRACE Partie: Ajout plaque J00
+20141123 20:38:08 TRACE Partie: Ajout plaque N00
+20141123 20:38:08 TRACE Partie: Ajout plaque R01
+20141123 20:38:08 TRACE Partie: Ajout plaque B01
+20141123 20:38:08 TRACE Partie: Ajout plaque J01
+20141123 20:38:08 TRACE Partie: Ajout plaque N01
+20141123 20:38:08 TRACE Partie: Ajout plaque R02
+20141123 20:38:08 TRACE Partie: Ajout plaque B02
+20141123 20:38:08 TRACE Partie: Ajout plaque J02
+20141123 20:38:08 TRACE Partie: Ajout plaque N02
+20141123 20:38:08 TRACE Partie: Ajout plaque R03
+20141123 20:38:08 TRACE Partie: Ajout plaque B03
+20141123 20:38:08 TRACE Partie: Ajout plaque J03
+20141123 20:38:08 TRACE Partie: Ajout plaque N03
+20141123 20:38:08 TRACE Partie: Ajout plaque R04
+20141123 20:38:08 TRACE Partie: Ajout plaque B04
+20141123 20:38:08 TRACE Partie: Ajout plaque J04
+20141123 20:38:08 TRACE Partie: Ajout plaque N04
+20141123 20:38:08 TRACE Partie: Ajout plaque R05
+20141123 20:38:08 TRACE Partie: Ajout plaque B05
+20141123 20:38:08 TRACE Partie: Ajout plaque J05
+20141123 20:38:08 TRACE Partie: Ajout plaque N05
+20141123 20:38:08 TRACE Partie: Ajout plaque R06
+20141123 20:38:08 TRACE Partie: Ajout plaque B06
+20141123 20:38:08 TRACE Partie: Ajout plaque J06
+20141123 20:38:08 TRACE Partie: Ajout plaque N06
+20141123 20:38:08 TRACE Partie: Ajout plaque R07
+20141123 20:38:08 TRACE Partie: Ajout plaque B07
+20141123 20:38:08 TRACE Partie: Ajout plaque J07
+20141123 20:38:08 TRACE Partie: Ajout plaque N07
+20141123 20:38:08 TRACE Partie: Ajout plaque R08
+20141123 20:38:08 TRACE Partie: Ajout plaque B08
+20141123 20:38:08 TRACE Partie: Ajout plaque J08
+20141123 20:38:08 TRACE Partie: Ajout plaque N08
+20141123 20:38:08 TRACE Partie: Ajout plaque R09
+20141123 20:38:08 TRACE Partie: Ajout plaque B09
+20141123 20:38:08 TRACE Partie: Ajout plaque J09
+20141123 20:38:08 TRACE Partie: Ajout plaque N09
+20141123 20:38:08 TRACE Partie: Ajout plaque R10
+20141123 20:38:08 TRACE Partie: Ajout plaque B10
+20141123 20:38:08 TRACE Partie: Ajout plaque J10
+20141123 20:38:08 TRACE Partie: Ajout plaque N10
+20141123 20:38:08 TRACE Partie: Ajout plaque R11
+20141123 20:38:08 TRACE Partie: Ajout plaque B11
+20141123 20:38:08 TRACE Partie: Ajout plaque J11
+20141123 20:38:08 TRACE Partie: Ajout plaque N11
+20141123 20:38:08 TRACE Partie: Ajout plaque R12
+20141123 20:38:08 TRACE Partie: Ajout plaque B12
+20141123 20:38:08 TRACE Partie: Ajout plaque J12
+20141123 20:38:08 TRACE Partie: Ajout plaque N12
+20141123 20:38:08 TRACE Partie: Ajout plaque R13
+20141123 20:38:08 TRACE Partie: Ajout plaque B13
+20141123 20:38:08 TRACE Partie: Ajout plaque J13
+20141123 20:38:08 TRACE Partie: Ajout plaque N13
+20141123 20:38:08 DEBUG Partie: Fin initialisation
+20141123 20:38:08 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:39:17 DEBUG Partie: Debut initialisation
+20141123 20:39:17 TRACE Partie: Ajout plaque R00
+20141123 20:39:17 TRACE Partie: Ajout plaque B00
+20141123 20:39:17 TRACE Partie: Ajout plaque J00
+20141123 20:39:17 TRACE Partie: Ajout plaque N00
+20141123 20:39:17 TRACE Partie: Ajout plaque R01
+20141123 20:39:17 TRACE Partie: Ajout plaque B01
+20141123 20:39:17 TRACE Partie: Ajout plaque J01
+20141123 20:39:17 TRACE Partie: Ajout plaque N01
+20141123 20:39:17 TRACE Partie: Ajout plaque R02
+20141123 20:39:17 TRACE Partie: Ajout plaque B02
+20141123 20:39:17 TRACE Partie: Ajout plaque J02
+20141123 20:39:17 TRACE Partie: Ajout plaque N02
+20141123 20:39:17 TRACE Partie: Ajout plaque R03
+20141123 20:39:17 TRACE Partie: Ajout plaque B03
+20141123 20:39:17 TRACE Partie: Ajout plaque J03
+20141123 20:39:17 TRACE Partie: Ajout plaque N03
+20141123 20:39:17 TRACE Partie: Ajout plaque R04
+20141123 20:39:17 TRACE Partie: Ajout plaque B04
+20141123 20:39:17 TRACE Partie: Ajout plaque J04
+20141123 20:39:17 TRACE Partie: Ajout plaque N04
+20141123 20:39:17 TRACE Partie: Ajout plaque R05
+20141123 20:39:17 TRACE Partie: Ajout plaque B05
+20141123 20:39:17 TRACE Partie: Ajout plaque J05
+20141123 20:39:17 TRACE Partie: Ajout plaque N05
+20141123 20:39:17 TRACE Partie: Ajout plaque R06
+20141123 20:39:17 TRACE Partie: Ajout plaque B06
+20141123 20:39:17 TRACE Partie: Ajout plaque J06
+20141123 20:39:17 TRACE Partie: Ajout plaque N06
+20141123 20:39:17 TRACE Partie: Ajout plaque R07
+20141123 20:39:17 TRACE Partie: Ajout plaque B07
+20141123 20:39:17 TRACE Partie: Ajout plaque J07
+20141123 20:39:17 TRACE Partie: Ajout plaque N07
+20141123 20:39:17 TRACE Partie: Ajout plaque R08
+20141123 20:39:17 TRACE Partie: Ajout plaque B08
+20141123 20:39:17 TRACE Partie: Ajout plaque J08
+20141123 20:39:17 TRACE Partie: Ajout plaque N08
+20141123 20:39:17 TRACE Partie: Ajout plaque R09
+20141123 20:39:17 TRACE Partie: Ajout plaque B09
+20141123 20:39:17 TRACE Partie: Ajout plaque J09
+20141123 20:39:17 TRACE Partie: Ajout plaque N09
+20141123 20:39:17 TRACE Partie: Ajout plaque R10
+20141123 20:39:17 TRACE Partie: Ajout plaque B10
+20141123 20:39:17 TRACE Partie: Ajout plaque J10
+20141123 20:39:17 TRACE Partie: Ajout plaque N10
+20141123 20:39:17 TRACE Partie: Ajout plaque R11
+20141123 20:39:17 TRACE Partie: Ajout plaque B11
+20141123 20:39:17 TRACE Partie: Ajout plaque J11
+20141123 20:39:17 TRACE Partie: Ajout plaque N11
+20141123 20:39:17 TRACE Partie: Ajout plaque R12
+20141123 20:39:17 TRACE Partie: Ajout plaque B12
+20141123 20:39:17 TRACE Partie: Ajout plaque J12
+20141123 20:39:17 TRACE Partie: Ajout plaque N12
+20141123 20:39:17 TRACE Partie: Ajout plaque R13
+20141123 20:39:17 TRACE Partie: Ajout plaque B13
+20141123 20:39:17 TRACE Partie: Ajout plaque J13
+20141123 20:39:17 TRACE Partie: Ajout plaque N13
+20141123 20:39:17 DEBUG Partie: Fin initialisation
+20141123 20:39:17 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:39:17 DEBUG Partie: Ajout joueur Alexandra
+20141123 20:39:17 DEBUG Partie: Ajout joueur Frederic
+20141123 20:39:17 DEBUG Partie: Ajout joueur Clemence
+20141123 20:39:17 DEBUG Partie: Ajout joueur Axel
+20141123 20:40:04 DEBUG Partie: Debut initialisation
+20141123 20:40:04 TRACE Partie: Ajout plaque R00
+20141123 20:40:04 TRACE Partie: Ajout plaque B00
+20141123 20:40:04 TRACE Partie: Ajout plaque J00
+20141123 20:40:04 TRACE Partie: Ajout plaque N00
+20141123 20:40:04 TRACE Partie: Ajout plaque R01
+20141123 20:40:04 TRACE Partie: Ajout plaque B01
+20141123 20:40:04 TRACE Partie: Ajout plaque J01
+20141123 20:40:04 TRACE Partie: Ajout plaque N01
+20141123 20:40:04 TRACE Partie: Ajout plaque R02
+20141123 20:40:04 TRACE Partie: Ajout plaque B02
+20141123 20:40:04 TRACE Partie: Ajout plaque J02
+20141123 20:40:04 TRACE Partie: Ajout plaque N02
+20141123 20:40:04 TRACE Partie: Ajout plaque R03
+20141123 20:40:04 TRACE Partie: Ajout plaque B03
+20141123 20:40:04 TRACE Partie: Ajout plaque J03
+20141123 20:40:04 TRACE Partie: Ajout plaque N03
+20141123 20:40:04 TRACE Partie: Ajout plaque R04
+20141123 20:40:04 TRACE Partie: Ajout plaque B04
+20141123 20:40:04 TRACE Partie: Ajout plaque J04
+20141123 20:40:04 TRACE Partie: Ajout plaque N04
+20141123 20:40:04 TRACE Partie: Ajout plaque R05
+20141123 20:40:04 TRACE Partie: Ajout plaque B05
+20141123 20:40:04 TRACE Partie: Ajout plaque J05
+20141123 20:40:04 TRACE Partie: Ajout plaque N05
+20141123 20:40:04 TRACE Partie: Ajout plaque R06
+20141123 20:40:04 TRACE Partie: Ajout plaque B06
+20141123 20:40:04 TRACE Partie: Ajout plaque J06
+20141123 20:40:04 TRACE Partie: Ajout plaque N06
+20141123 20:40:04 TRACE Partie: Ajout plaque R07
+20141123 20:40:04 TRACE Partie: Ajout plaque B07
+20141123 20:40:04 TRACE Partie: Ajout plaque J07
+20141123 20:40:04 TRACE Partie: Ajout plaque N07
+20141123 20:40:04 TRACE Partie: Ajout plaque R08
+20141123 20:40:04 TRACE Partie: Ajout plaque B08
+20141123 20:40:04 TRACE Partie: Ajout plaque J08
+20141123 20:40:04 TRACE Partie: Ajout plaque N08
+20141123 20:40:04 TRACE Partie: Ajout plaque R09
+20141123 20:40:04 TRACE Partie: Ajout plaque B09
+20141123 20:40:04 TRACE Partie: Ajout plaque J09
+20141123 20:40:04 TRACE Partie: Ajout plaque N09
+20141123 20:40:04 TRACE Partie: Ajout plaque R10
+20141123 20:40:04 TRACE Partie: Ajout plaque B10
+20141123 20:40:04 TRACE Partie: Ajout plaque J10
+20141123 20:40:04 TRACE Partie: Ajout plaque N10
+20141123 20:40:04 TRACE Partie: Ajout plaque R11
+20141123 20:40:04 TRACE Partie: Ajout plaque B11
+20141123 20:40:04 TRACE Partie: Ajout plaque J11
+20141123 20:40:04 TRACE Partie: Ajout plaque N11
+20141123 20:40:04 TRACE Partie: Ajout plaque R12
+20141123 20:40:04 TRACE Partie: Ajout plaque B12
+20141123 20:40:04 TRACE Partie: Ajout plaque J12
+20141123 20:40:04 TRACE Partie: Ajout plaque N12
+20141123 20:40:04 TRACE Partie: Ajout plaque R13
+20141123 20:40:04 TRACE Partie: Ajout plaque B13
+20141123 20:40:04 TRACE Partie: Ajout plaque J13
+20141123 20:40:04 TRACE Partie: Ajout plaque N13
+20141123 20:40:04 DEBUG Partie: Fin initialisation
+20141123 20:40:04 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:40:04 DEBUG Partie: Ajout joueur Alexandra
+20141123 20:40:04 DEBUG Partie: Ajout joueur Frederic
+20141123 20:40:04 DEBUG Partie: Ajout joueur Clemence
+20141123 20:40:04 DEBUG Partie: Ajout joueur Axel
+20141123 20:40:04 FATAL Main: Exception: Le nombre maximum de joueur (4) est atteint.
+20141123 20:43:08 DEBUG Partie: Debut initialisation
+20141123 20:43:08 TRACE Partie: Ajout plaque R00
+20141123 20:43:08 TRACE Partie: Ajout plaque B00
+20141123 20:43:08 TRACE Partie: Ajout plaque J00
+20141123 20:43:08 TRACE Partie: Ajout plaque N00
+20141123 20:43:08 TRACE Partie: Ajout plaque R01
+20141123 20:43:08 TRACE Partie: Ajout plaque B01
+20141123 20:43:08 TRACE Partie: Ajout plaque J01
+20141123 20:43:08 TRACE Partie: Ajout plaque N01
+20141123 20:43:08 TRACE Partie: Ajout plaque R02
+20141123 20:43:08 TRACE Partie: Ajout plaque B02
+20141123 20:43:08 TRACE Partie: Ajout plaque J02
+20141123 20:43:08 TRACE Partie: Ajout plaque N02
+20141123 20:43:08 TRACE Partie: Ajout plaque R03
+20141123 20:43:08 TRACE Partie: Ajout plaque B03
+20141123 20:43:08 TRACE Partie: Ajout plaque J03
+20141123 20:43:08 TRACE Partie: Ajout plaque N03
+20141123 20:43:08 TRACE Partie: Ajout plaque R04
+20141123 20:43:08 TRACE Partie: Ajout plaque B04
+20141123 20:43:08 TRACE Partie: Ajout plaque J04
+20141123 20:43:08 TRACE Partie: Ajout plaque N04
+20141123 20:43:08 TRACE Partie: Ajout plaque R05
+20141123 20:43:08 TRACE Partie: Ajout plaque B05
+20141123 20:43:08 TRACE Partie: Ajout plaque J05
+20141123 20:43:08 TRACE Partie: Ajout plaque N05
+20141123 20:43:08 TRACE Partie: Ajout plaque R06
+20141123 20:43:08 TRACE Partie: Ajout plaque B06
+20141123 20:43:08 TRACE Partie: Ajout plaque J06
+20141123 20:43:08 TRACE Partie: Ajout plaque N06
+20141123 20:43:08 TRACE Partie: Ajout plaque R07
+20141123 20:43:08 TRACE Partie: Ajout plaque B07
+20141123 20:43:08 TRACE Partie: Ajout plaque J07
+20141123 20:43:08 TRACE Partie: Ajout plaque N07
+20141123 20:43:08 TRACE Partie: Ajout plaque R08
+20141123 20:43:08 TRACE Partie: Ajout plaque B08
+20141123 20:43:08 TRACE Partie: Ajout plaque J08
+20141123 20:43:08 TRACE Partie: Ajout plaque N08
+20141123 20:43:08 TRACE Partie: Ajout plaque R09
+20141123 20:43:08 TRACE Partie: Ajout plaque B09
+20141123 20:43:08 TRACE Partie: Ajout plaque J09
+20141123 20:43:08 TRACE Partie: Ajout plaque N09
+20141123 20:43:08 TRACE Partie: Ajout plaque R10
+20141123 20:43:08 TRACE Partie: Ajout plaque B10
+20141123 20:43:08 TRACE Partie: Ajout plaque J10
+20141123 20:43:08 TRACE Partie: Ajout plaque N10
+20141123 20:43:08 TRACE Partie: Ajout plaque R11
+20141123 20:43:08 TRACE Partie: Ajout plaque B11
+20141123 20:43:08 TRACE Partie: Ajout plaque J11
+20141123 20:43:08 TRACE Partie: Ajout plaque N11
+20141123 20:43:08 TRACE Partie: Ajout plaque R12
+20141123 20:43:08 TRACE Partie: Ajout plaque B12
+20141123 20:43:08 TRACE Partie: Ajout plaque J12
+20141123 20:43:08 TRACE Partie: Ajout plaque N12
+20141123 20:43:08 TRACE Partie: Ajout plaque R13
+20141123 20:43:08 TRACE Partie: Ajout plaque B13
+20141123 20:43:08 TRACE Partie: Ajout plaque J13
+20141123 20:43:08 TRACE Partie: Ajout plaque N13
+20141123 20:43:08 DEBUG Partie: Fin initialisation
+20141123 20:43:08 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:43:08 DEBUG Partie: Ajout joueur Alexandra
+20141123 20:43:20 DEBUG Partie: Debut initialisation
+20141123 20:43:20 TRACE Partie: Ajout plaque R00
+20141123 20:43:20 TRACE Partie: Ajout plaque B00
+20141123 20:43:20 TRACE Partie: Ajout plaque J00
+20141123 20:43:20 TRACE Partie: Ajout plaque N00
+20141123 20:43:20 TRACE Partie: Ajout plaque R01
+20141123 20:43:20 TRACE Partie: Ajout plaque B01
+20141123 20:43:20 TRACE Partie: Ajout plaque J01
+20141123 20:43:20 TRACE Partie: Ajout plaque N01
+20141123 20:43:20 TRACE Partie: Ajout plaque R02
+20141123 20:43:20 TRACE Partie: Ajout plaque B02
+20141123 20:43:20 TRACE Partie: Ajout plaque J02
+20141123 20:43:20 TRACE Partie: Ajout plaque N02
+20141123 20:43:20 TRACE Partie: Ajout plaque R03
+20141123 20:43:20 TRACE Partie: Ajout plaque B03
+20141123 20:43:20 TRACE Partie: Ajout plaque J03
+20141123 20:43:20 TRACE Partie: Ajout plaque N03
+20141123 20:43:20 TRACE Partie: Ajout plaque R04
+20141123 20:43:20 TRACE Partie: Ajout plaque B04
+20141123 20:43:20 TRACE Partie: Ajout plaque J04
+20141123 20:43:20 TRACE Partie: Ajout plaque N04
+20141123 20:43:20 TRACE Partie: Ajout plaque R05
+20141123 20:43:20 TRACE Partie: Ajout plaque B05
+20141123 20:43:20 TRACE Partie: Ajout plaque J05
+20141123 20:43:20 TRACE Partie: Ajout plaque N05
+20141123 20:43:20 TRACE Partie: Ajout plaque R06
+20141123 20:43:20 TRACE Partie: Ajout plaque B06
+20141123 20:43:20 TRACE Partie: Ajout plaque J06
+20141123 20:43:20 TRACE Partie: Ajout plaque N06
+20141123 20:43:20 TRACE Partie: Ajout plaque R07
+20141123 20:43:20 TRACE Partie: Ajout plaque B07
+20141123 20:43:20 TRACE Partie: Ajout plaque J07
+20141123 20:43:20 TRACE Partie: Ajout plaque N07
+20141123 20:43:20 TRACE Partie: Ajout plaque R08
+20141123 20:43:20 TRACE Partie: Ajout plaque B08
+20141123 20:43:20 TRACE Partie: Ajout plaque J08
+20141123 20:43:20 TRACE Partie: Ajout plaque N08
+20141123 20:43:20 TRACE Partie: Ajout plaque R09
+20141123 20:43:20 TRACE Partie: Ajout plaque B09
+20141123 20:43:20 TRACE Partie: Ajout plaque J09
+20141123 20:43:20 TRACE Partie: Ajout plaque N09
+20141123 20:43:20 TRACE Partie: Ajout plaque R10
+20141123 20:43:20 TRACE Partie: Ajout plaque B10
+20141123 20:43:20 TRACE Partie: Ajout plaque J10
+20141123 20:43:20 TRACE Partie: Ajout plaque N10
+20141123 20:43:20 TRACE Partie: Ajout plaque R11
+20141123 20:43:20 TRACE Partie: Ajout plaque B11
+20141123 20:43:20 TRACE Partie: Ajout plaque J11
+20141123 20:43:20 TRACE Partie: Ajout plaque N11
+20141123 20:43:20 TRACE Partie: Ajout plaque R12
+20141123 20:43:20 TRACE Partie: Ajout plaque B12
+20141123 20:43:20 TRACE Partie: Ajout plaque J12
+20141123 20:43:20 TRACE Partie: Ajout plaque N12
+20141123 20:43:20 TRACE Partie: Ajout plaque R13
+20141123 20:43:20 TRACE Partie: Ajout plaque B13
+20141123 20:43:20 TRACE Partie: Ajout plaque J13
+20141123 20:43:20 TRACE Partie: Ajout plaque N13
+20141123 20:43:20 DEBUG Partie: Fin initialisation
+20141123 20:43:20 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:43:20 DEBUG Partie: Ajout joueur Alexandra
+20141123 20:43:20 DEBUG Partie: Ajout joueur Frederic
+20141123 20:43:38 DEBUG Partie: Debut initialisation
+20141123 20:43:38 TRACE Partie: Ajout plaque R00
+20141123 20:43:38 TRACE Partie: Ajout plaque B00
+20141123 20:43:38 TRACE Partie: Ajout plaque J00
+20141123 20:43:38 TRACE Partie: Ajout plaque N00
+20141123 20:43:38 TRACE Partie: Ajout plaque R01
+20141123 20:43:38 TRACE Partie: Ajout plaque B01
+20141123 20:43:38 TRACE Partie: Ajout plaque J01
+20141123 20:43:38 TRACE Partie: Ajout plaque N01
+20141123 20:43:38 TRACE Partie: Ajout plaque R02
+20141123 20:43:38 TRACE Partie: Ajout plaque B02
+20141123 20:43:38 TRACE Partie: Ajout plaque J02
+20141123 20:43:38 TRACE Partie: Ajout plaque N02
+20141123 20:43:38 TRACE Partie: Ajout plaque R03
+20141123 20:43:38 TRACE Partie: Ajout plaque B03
+20141123 20:43:38 TRACE Partie: Ajout plaque J03
+20141123 20:43:38 TRACE Partie: Ajout plaque N03
+20141123 20:43:38 TRACE Partie: Ajout plaque R04
+20141123 20:43:38 TRACE Partie: Ajout plaque B04
+20141123 20:43:38 TRACE Partie: Ajout plaque J04
+20141123 20:43:38 TRACE Partie: Ajout plaque N04
+20141123 20:43:38 TRACE Partie: Ajout plaque R05
+20141123 20:43:38 TRACE Partie: Ajout plaque B05
+20141123 20:43:38 TRACE Partie: Ajout plaque J05
+20141123 20:43:38 TRACE Partie: Ajout plaque N05
+20141123 20:43:38 TRACE Partie: Ajout plaque R06
+20141123 20:43:38 TRACE Partie: Ajout plaque B06
+20141123 20:43:38 TRACE Partie: Ajout plaque J06
+20141123 20:43:38 TRACE Partie: Ajout plaque N06
+20141123 20:43:38 TRACE Partie: Ajout plaque R07
+20141123 20:43:38 TRACE Partie: Ajout plaque B07
+20141123 20:43:38 TRACE Partie: Ajout plaque J07
+20141123 20:43:38 TRACE Partie: Ajout plaque N07
+20141123 20:43:38 TRACE Partie: Ajout plaque R08
+20141123 20:43:38 TRACE Partie: Ajout plaque B08
+20141123 20:43:38 TRACE Partie: Ajout plaque J08
+20141123 20:43:38 TRACE Partie: Ajout plaque N08
+20141123 20:43:38 TRACE Partie: Ajout plaque R09
+20141123 20:43:38 TRACE Partie: Ajout plaque B09
+20141123 20:43:38 TRACE Partie: Ajout plaque J09
+20141123 20:43:38 TRACE Partie: Ajout plaque N09
+20141123 20:43:38 TRACE Partie: Ajout plaque R10
+20141123 20:43:38 TRACE Partie: Ajout plaque B10
+20141123 20:43:38 TRACE Partie: Ajout plaque J10
+20141123 20:43:38 TRACE Partie: Ajout plaque N10
+20141123 20:43:38 TRACE Partie: Ajout plaque R11
+20141123 20:43:38 TRACE Partie: Ajout plaque B11
+20141123 20:43:38 TRACE Partie: Ajout plaque J11
+20141123 20:43:38 TRACE Partie: Ajout plaque N11
+20141123 20:43:38 TRACE Partie: Ajout plaque R12
+20141123 20:43:38 TRACE Partie: Ajout plaque B12
+20141123 20:43:38 TRACE Partie: Ajout plaque J12
+20141123 20:43:38 TRACE Partie: Ajout plaque N12
+20141123 20:43:38 TRACE Partie: Ajout plaque R13
+20141123 20:43:38 TRACE Partie: Ajout plaque B13
+20141123 20:43:38 TRACE Partie: Ajout plaque J13
+20141123 20:43:38 TRACE Partie: Ajout plaque N13
+20141123 20:43:38 DEBUG Partie: Fin initialisation
+20141123 20:43:38 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:43:38 DEBUG Partie: Ajout joueur Alexandra
+20141123 20:43:38 DEBUG Partie: Ajout joueur Frederic
+20141123 20:43:38 DEBUG Partie: Ajout joueur Clemence
+20141123 20:43:38 DEBUG Partie: Ajout joueur Axel
+20141123 20:43:56 DEBUG Partie: Debut initialisation
+20141123 20:43:56 TRACE Partie: Ajout plaque R00
+20141123 20:43:56 TRACE Partie: Ajout plaque B00
+20141123 20:43:56 TRACE Partie: Ajout plaque J00
+20141123 20:43:56 TRACE Partie: Ajout plaque N00
+20141123 20:43:56 TRACE Partie: Ajout plaque R01
+20141123 20:43:56 TRACE Partie: Ajout plaque B01
+20141123 20:43:56 TRACE Partie: Ajout plaque J01
+20141123 20:43:56 TRACE Partie: Ajout plaque N01
+20141123 20:43:56 TRACE Partie: Ajout plaque R02
+20141123 20:43:56 TRACE Partie: Ajout plaque B02
+20141123 20:43:56 TRACE Partie: Ajout plaque J02
+20141123 20:43:56 TRACE Partie: Ajout plaque N02
+20141123 20:43:56 TRACE Partie: Ajout plaque R03
+20141123 20:43:56 TRACE Partie: Ajout plaque B03
+20141123 20:43:56 TRACE Partie: Ajout plaque J03
+20141123 20:43:56 TRACE Partie: Ajout plaque N03
+20141123 20:43:56 TRACE Partie: Ajout plaque R04
+20141123 20:43:56 TRACE Partie: Ajout plaque B04
+20141123 20:43:56 TRACE Partie: Ajout plaque J04
+20141123 20:43:56 TRACE Partie: Ajout plaque N04
+20141123 20:43:56 TRACE Partie: Ajout plaque R05
+20141123 20:43:56 TRACE Partie: Ajout plaque B05
+20141123 20:43:56 TRACE Partie: Ajout plaque J05
+20141123 20:43:56 TRACE Partie: Ajout plaque N05
+20141123 20:43:56 TRACE Partie: Ajout plaque R06
+20141123 20:43:56 TRACE Partie: Ajout plaque B06
+20141123 20:43:56 TRACE Partie: Ajout plaque J06
+20141123 20:43:56 TRACE Partie: Ajout plaque N06
+20141123 20:43:56 TRACE Partie: Ajout plaque R07
+20141123 20:43:56 TRACE Partie: Ajout plaque B07
+20141123 20:43:56 TRACE Partie: Ajout plaque J07
+20141123 20:43:56 TRACE Partie: Ajout plaque N07
+20141123 20:43:56 TRACE Partie: Ajout plaque R08
+20141123 20:43:56 TRACE Partie: Ajout plaque B08
+20141123 20:43:56 TRACE Partie: Ajout plaque J08
+20141123 20:43:56 TRACE Partie: Ajout plaque N08
+20141123 20:43:56 TRACE Partie: Ajout plaque R09
+20141123 20:43:56 TRACE Partie: Ajout plaque B09
+20141123 20:43:56 TRACE Partie: Ajout plaque J09
+20141123 20:43:56 TRACE Partie: Ajout plaque N09
+20141123 20:43:56 TRACE Partie: Ajout plaque R10
+20141123 20:43:56 TRACE Partie: Ajout plaque B10
+20141123 20:43:56 TRACE Partie: Ajout plaque J10
+20141123 20:43:56 TRACE Partie: Ajout plaque N10
+20141123 20:43:56 TRACE Partie: Ajout plaque R11
+20141123 20:43:56 TRACE Partie: Ajout plaque B11
+20141123 20:43:56 TRACE Partie: Ajout plaque J11
+20141123 20:43:56 TRACE Partie: Ajout plaque N11
+20141123 20:43:56 TRACE Partie: Ajout plaque R12
+20141123 20:43:56 TRACE Partie: Ajout plaque B12
+20141123 20:43:56 TRACE Partie: Ajout plaque J12
+20141123 20:43:56 TRACE Partie: Ajout plaque N12
+20141123 20:43:56 TRACE Partie: Ajout plaque R13
+20141123 20:43:56 TRACE Partie: Ajout plaque B13
+20141123 20:43:56 TRACE Partie: Ajout plaque J13
+20141123 20:43:56 TRACE Partie: Ajout plaque N13
+20141123 20:43:56 DEBUG Partie: Fin initialisation
+20141123 20:43:56 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:43:56 DEBUG Partie: Ajout joueur Alexandra
+20141123 20:43:56 DEBUG Partie: Ajout joueur Frederic
+20141123 20:43:56 DEBUG Partie: Ajout joueur Clemence
+20141123 20:43:56 DEBUG Partie: Ajout joueur Frederic
+20141123 20:43:56 FATAL Main: Exception: Un joueur portant le pseudo Fredericest déja présent dans la partie.
+20141123 20:44:19 DEBUG Partie: Debut initialisation
+20141123 20:44:19 TRACE Partie: Ajout plaque R00
+20141123 20:44:19 TRACE Partie: Ajout plaque B00
+20141123 20:44:19 TRACE Partie: Ajout plaque J00
+20141123 20:44:19 TRACE Partie: Ajout plaque N00
+20141123 20:44:19 TRACE Partie: Ajout plaque R01
+20141123 20:44:19 TRACE Partie: Ajout plaque B01
+20141123 20:44:19 TRACE Partie: Ajout plaque J01
+20141123 20:44:19 TRACE Partie: Ajout plaque N01
+20141123 20:44:19 TRACE Partie: Ajout plaque R02
+20141123 20:44:19 TRACE Partie: Ajout plaque B02
+20141123 20:44:19 TRACE Partie: Ajout plaque J02
+20141123 20:44:19 TRACE Partie: Ajout plaque N02
+20141123 20:44:19 TRACE Partie: Ajout plaque R03
+20141123 20:44:19 TRACE Partie: Ajout plaque B03
+20141123 20:44:19 TRACE Partie: Ajout plaque J03
+20141123 20:44:19 TRACE Partie: Ajout plaque N03
+20141123 20:44:19 TRACE Partie: Ajout plaque R04
+20141123 20:44:19 TRACE Partie: Ajout plaque B04
+20141123 20:44:19 TRACE Partie: Ajout plaque J04
+20141123 20:44:19 TRACE Partie: Ajout plaque N04
+20141123 20:44:19 TRACE Partie: Ajout plaque R05
+20141123 20:44:19 TRACE Partie: Ajout plaque B05
+20141123 20:44:19 TRACE Partie: Ajout plaque J05
+20141123 20:44:19 TRACE Partie: Ajout plaque N05
+20141123 20:44:19 TRACE Partie: Ajout plaque R06
+20141123 20:44:19 TRACE Partie: Ajout plaque B06
+20141123 20:44:19 TRACE Partie: Ajout plaque J06
+20141123 20:44:19 TRACE Partie: Ajout plaque N06
+20141123 20:44:19 TRACE Partie: Ajout plaque R07
+20141123 20:44:19 TRACE Partie: Ajout plaque B07
+20141123 20:44:19 TRACE Partie: Ajout plaque J07
+20141123 20:44:19 TRACE Partie: Ajout plaque N07
+20141123 20:44:19 TRACE Partie: Ajout plaque R08
+20141123 20:44:19 TRACE Partie: Ajout plaque B08
+20141123 20:44:19 TRACE Partie: Ajout plaque J08
+20141123 20:44:19 TRACE Partie: Ajout plaque N08
+20141123 20:44:19 TRACE Partie: Ajout plaque R09
+20141123 20:44:19 TRACE Partie: Ajout plaque B09
+20141123 20:44:19 TRACE Partie: Ajout plaque J09
+20141123 20:44:19 TRACE Partie: Ajout plaque N09
+20141123 20:44:19 TRACE Partie: Ajout plaque R10
+20141123 20:44:19 TRACE Partie: Ajout plaque B10
+20141123 20:44:19 TRACE Partie: Ajout plaque J10
+20141123 20:44:19 TRACE Partie: Ajout plaque N10
+20141123 20:44:19 TRACE Partie: Ajout plaque R11
+20141123 20:44:19 TRACE Partie: Ajout plaque B11
+20141123 20:44:19 TRACE Partie: Ajout plaque J11
+20141123 20:44:19 TRACE Partie: Ajout plaque N11
+20141123 20:44:19 TRACE Partie: Ajout plaque R12
+20141123 20:44:19 TRACE Partie: Ajout plaque B12
+20141123 20:44:19 TRACE Partie: Ajout plaque J12
+20141123 20:44:19 TRACE Partie: Ajout plaque N12
+20141123 20:44:19 TRACE Partie: Ajout plaque R13
+20141123 20:44:19 TRACE Partie: Ajout plaque B13
+20141123 20:44:19 TRACE Partie: Ajout plaque J13
+20141123 20:44:19 TRACE Partie: Ajout plaque N13
+20141123 20:44:19 DEBUG Partie: Fin initialisation
+20141123 20:44:19 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:44:19 DEBUG Partie: Ajout joueur Alexandra
+20141123 20:44:19 DEBUG Partie: Ajout joueur Frederic
+20141123 20:44:19 DEBUG Partie: Ajout joueur Clemence
+20141123 20:44:19 DEBUG Partie: Ajout joueur Axel
+20141123 20:55:41 DEBUG Partie: Debut initialisation
+20141123 20:55:41 TRACE Partie: Ajout plaque R00
+20141123 20:55:41 TRACE Partie: Ajout plaque B00
+20141123 20:55:41 TRACE Partie: Ajout plaque J00
+20141123 20:55:41 TRACE Partie: Ajout plaque N00
+20141123 20:55:41 TRACE Partie: Ajout plaque R01
+20141123 20:55:41 TRACE Partie: Ajout plaque B01
+20141123 20:55:41 TRACE Partie: Ajout plaque J01
+20141123 20:55:41 TRACE Partie: Ajout plaque N01
+20141123 20:55:41 TRACE Partie: Ajout plaque R02
+20141123 20:55:41 TRACE Partie: Ajout plaque B02
+20141123 20:55:41 TRACE Partie: Ajout plaque J02
+20141123 20:55:41 TRACE Partie: Ajout plaque N02
+20141123 20:55:41 TRACE Partie: Ajout plaque R03
+20141123 20:55:41 TRACE Partie: Ajout plaque B03
+20141123 20:55:41 TRACE Partie: Ajout plaque J03
+20141123 20:55:41 TRACE Partie: Ajout plaque N03
+20141123 20:55:41 TRACE Partie: Ajout plaque R04
+20141123 20:55:41 TRACE Partie: Ajout plaque B04
+20141123 20:55:41 TRACE Partie: Ajout plaque J04
+20141123 20:55:41 TRACE Partie: Ajout plaque N04
+20141123 20:55:41 TRACE Partie: Ajout plaque R05
+20141123 20:55:41 TRACE Partie: Ajout plaque B05
+20141123 20:55:41 TRACE Partie: Ajout plaque J05
+20141123 20:55:41 TRACE Partie: Ajout plaque N05
+20141123 20:55:41 TRACE Partie: Ajout plaque R06
+20141123 20:55:41 TRACE Partie: Ajout plaque B06
+20141123 20:55:41 TRACE Partie: Ajout plaque J06
+20141123 20:55:41 TRACE Partie: Ajout plaque N06
+20141123 20:55:41 TRACE Partie: Ajout plaque R07
+20141123 20:55:41 TRACE Partie: Ajout plaque B07
+20141123 20:55:41 TRACE Partie: Ajout plaque J07
+20141123 20:55:41 TRACE Partie: Ajout plaque N07
+20141123 20:55:41 TRACE Partie: Ajout plaque R08
+20141123 20:55:41 TRACE Partie: Ajout plaque B08
+20141123 20:55:41 TRACE Partie: Ajout plaque J08
+20141123 20:55:41 TRACE Partie: Ajout plaque N08
+20141123 20:55:41 TRACE Partie: Ajout plaque R09
+20141123 20:55:41 TRACE Partie: Ajout plaque B09
+20141123 20:55:41 TRACE Partie: Ajout plaque J09
+20141123 20:55:41 TRACE Partie: Ajout plaque N09
+20141123 20:55:41 TRACE Partie: Ajout plaque R10
+20141123 20:55:41 TRACE Partie: Ajout plaque B10
+20141123 20:55:41 TRACE Partie: Ajout plaque J10
+20141123 20:55:41 TRACE Partie: Ajout plaque N10
+20141123 20:55:41 TRACE Partie: Ajout plaque R11
+20141123 20:55:41 TRACE Partie: Ajout plaque B11
+20141123 20:55:41 TRACE Partie: Ajout plaque J11
+20141123 20:55:41 TRACE Partie: Ajout plaque N11
+20141123 20:55:41 TRACE Partie: Ajout plaque R12
+20141123 20:55:41 TRACE Partie: Ajout plaque B12
+20141123 20:55:41 TRACE Partie: Ajout plaque J12
+20141123 20:55:41 TRACE Partie: Ajout plaque N12
+20141123 20:55:41 TRACE Partie: Ajout plaque R13
+20141123 20:55:41 TRACE Partie: Ajout plaque B13
+20141123 20:55:41 TRACE Partie: Ajout plaque J13
+20141123 20:55:41 TRACE Partie: Ajout plaque N13
+20141123 20:55:41 DEBUG Partie: Fin initialisation
+20141123 20:55:41 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:55:41 DEBUG Partie: Ajout joueur Alexandra
+20141123 20:55:41 DEBUG Partie: Ajout joueur Frederic
+20141123 20:55:41 DEBUG Partie: Ajout joueur Clemence
+20141123 20:55:41 DEBUG Partie: Ajout joueur Axel
+20141123 20:56:48 DEBUG Partie: Debut initialisation
+20141123 20:56:48 TRACE Partie: Ajout plaque R00
+20141123 20:56:48 TRACE Partie: Ajout plaque B00
+20141123 20:56:48 TRACE Partie: Ajout plaque J00
+20141123 20:56:48 TRACE Partie: Ajout plaque N00
+20141123 20:56:48 TRACE Partie: Ajout plaque R01
+20141123 20:56:48 TRACE Partie: Ajout plaque B01
+20141123 20:56:48 TRACE Partie: Ajout plaque J01
+20141123 20:56:48 TRACE Partie: Ajout plaque N01
+20141123 20:56:48 TRACE Partie: Ajout plaque R02
+20141123 20:56:48 TRACE Partie: Ajout plaque B02
+20141123 20:56:48 TRACE Partie: Ajout plaque J02
+20141123 20:56:48 TRACE Partie: Ajout plaque N02
+20141123 20:56:48 TRACE Partie: Ajout plaque R03
+20141123 20:56:48 TRACE Partie: Ajout plaque B03
+20141123 20:56:48 TRACE Partie: Ajout plaque J03
+20141123 20:56:48 TRACE Partie: Ajout plaque N03
+20141123 20:56:48 TRACE Partie: Ajout plaque R04
+20141123 20:56:48 TRACE Partie: Ajout plaque B04
+20141123 20:56:48 TRACE Partie: Ajout plaque J04
+20141123 20:56:48 TRACE Partie: Ajout plaque N04
+20141123 20:56:48 TRACE Partie: Ajout plaque R05
+20141123 20:56:48 TRACE Partie: Ajout plaque B05
+20141123 20:56:48 TRACE Partie: Ajout plaque J05
+20141123 20:56:48 TRACE Partie: Ajout plaque N05
+20141123 20:56:48 TRACE Partie: Ajout plaque R06
+20141123 20:56:48 TRACE Partie: Ajout plaque B06
+20141123 20:56:48 TRACE Partie: Ajout plaque J06
+20141123 20:56:48 TRACE Partie: Ajout plaque N06
+20141123 20:56:48 TRACE Partie: Ajout plaque R07
+20141123 20:56:48 TRACE Partie: Ajout plaque B07
+20141123 20:56:48 TRACE Partie: Ajout plaque J07
+20141123 20:56:48 TRACE Partie: Ajout plaque N07
+20141123 20:56:48 TRACE Partie: Ajout plaque R08
+20141123 20:56:48 TRACE Partie: Ajout plaque B08
+20141123 20:56:48 TRACE Partie: Ajout plaque J08
+20141123 20:56:48 TRACE Partie: Ajout plaque N08
+20141123 20:56:48 TRACE Partie: Ajout plaque R09
+20141123 20:56:48 TRACE Partie: Ajout plaque B09
+20141123 20:56:48 TRACE Partie: Ajout plaque J09
+20141123 20:56:48 TRACE Partie: Ajout plaque N09
+20141123 20:56:48 TRACE Partie: Ajout plaque R10
+20141123 20:56:48 TRACE Partie: Ajout plaque B10
+20141123 20:56:48 TRACE Partie: Ajout plaque J10
+20141123 20:56:48 TRACE Partie: Ajout plaque N10
+20141123 20:56:48 TRACE Partie: Ajout plaque R11
+20141123 20:56:48 TRACE Partie: Ajout plaque B11
+20141123 20:56:48 TRACE Partie: Ajout plaque J11
+20141123 20:56:48 TRACE Partie: Ajout plaque N11
+20141123 20:56:48 TRACE Partie: Ajout plaque R12
+20141123 20:56:48 TRACE Partie: Ajout plaque B12
+20141123 20:56:48 TRACE Partie: Ajout plaque J12
+20141123 20:56:48 TRACE Partie: Ajout plaque N12
+20141123 20:56:48 TRACE Partie: Ajout plaque R13
+20141123 20:56:48 TRACE Partie: Ajout plaque B13
+20141123 20:56:48 TRACE Partie: Ajout plaque J13
+20141123 20:56:48 TRACE Partie: Ajout plaque N13
+20141123 20:56:48 DEBUG Partie: Fin initialisation
+20141123 20:56:48 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:56:48 DEBUG Partie: Ajout joueur Alexandra (Plaque debut: R11)
+20141123 20:56:48 DEBUG Partie: Ajout joueur Frederic (Plaque debut: J00)
+20141123 20:56:48 DEBUG Partie: Ajout joueur Clemence (Plaque debut: N02)
+20141123 20:56:48 DEBUG Partie: Ajout joueur Axel (Plaque debut: J12)
+20141123 20:57:17 DEBUG Partie: Debut initialisation
+20141123 20:57:17 TRACE Partie: Ajout plaque R00
+20141123 20:57:17 TRACE Partie: Ajout plaque B00
+20141123 20:57:17 TRACE Partie: Ajout plaque J00
+20141123 20:57:17 TRACE Partie: Ajout plaque N00
+20141123 20:57:17 TRACE Partie: Ajout plaque R01
+20141123 20:57:17 TRACE Partie: Ajout plaque B01
+20141123 20:57:17 TRACE Partie: Ajout plaque J01
+20141123 20:57:17 TRACE Partie: Ajout plaque N01
+20141123 20:57:17 TRACE Partie: Ajout plaque R02
+20141123 20:57:17 TRACE Partie: Ajout plaque B02
+20141123 20:57:17 TRACE Partie: Ajout plaque J02
+20141123 20:57:17 TRACE Partie: Ajout plaque N02
+20141123 20:57:17 TRACE Partie: Ajout plaque R03
+20141123 20:57:17 TRACE Partie: Ajout plaque B03
+20141123 20:57:17 TRACE Partie: Ajout plaque J03
+20141123 20:57:17 TRACE Partie: Ajout plaque N03
+20141123 20:57:17 TRACE Partie: Ajout plaque R04
+20141123 20:57:17 TRACE Partie: Ajout plaque B04
+20141123 20:57:17 TRACE Partie: Ajout plaque J04
+20141123 20:57:17 TRACE Partie: Ajout plaque N04
+20141123 20:57:17 TRACE Partie: Ajout plaque R05
+20141123 20:57:17 TRACE Partie: Ajout plaque B05
+20141123 20:57:17 TRACE Partie: Ajout plaque J05
+20141123 20:57:17 TRACE Partie: Ajout plaque N05
+20141123 20:57:17 TRACE Partie: Ajout plaque R06
+20141123 20:57:17 TRACE Partie: Ajout plaque B06
+20141123 20:57:17 TRACE Partie: Ajout plaque J06
+20141123 20:57:17 TRACE Partie: Ajout plaque N06
+20141123 20:57:17 TRACE Partie: Ajout plaque R07
+20141123 20:57:17 TRACE Partie: Ajout plaque B07
+20141123 20:57:17 TRACE Partie: Ajout plaque J07
+20141123 20:57:17 TRACE Partie: Ajout plaque N07
+20141123 20:57:17 TRACE Partie: Ajout plaque R08
+20141123 20:57:17 TRACE Partie: Ajout plaque B08
+20141123 20:57:17 TRACE Partie: Ajout plaque J08
+20141123 20:57:17 TRACE Partie: Ajout plaque N08
+20141123 20:57:17 TRACE Partie: Ajout plaque R09
+20141123 20:57:17 TRACE Partie: Ajout plaque B09
+20141123 20:57:17 TRACE Partie: Ajout plaque J09
+20141123 20:57:17 TRACE Partie: Ajout plaque N09
+20141123 20:57:17 TRACE Partie: Ajout plaque R10
+20141123 20:57:17 TRACE Partie: Ajout plaque B10
+20141123 20:57:17 TRACE Partie: Ajout plaque J10
+20141123 20:57:17 TRACE Partie: Ajout plaque N10
+20141123 20:57:17 TRACE Partie: Ajout plaque R11
+20141123 20:57:17 TRACE Partie: Ajout plaque B11
+20141123 20:57:17 TRACE Partie: Ajout plaque J11
+20141123 20:57:17 TRACE Partie: Ajout plaque N11
+20141123 20:57:17 TRACE Partie: Ajout plaque R12
+20141123 20:57:17 TRACE Partie: Ajout plaque B12
+20141123 20:57:17 TRACE Partie: Ajout plaque J12
+20141123 20:57:17 TRACE Partie: Ajout plaque N12
+20141123 20:57:17 TRACE Partie: Ajout plaque R13
+20141123 20:57:17 TRACE Partie: Ajout plaque B13
+20141123 20:57:17 TRACE Partie: Ajout plaque J13
+20141123 20:57:17 TRACE Partie: Ajout plaque N13
+20141123 20:57:17 DEBUG Partie: Fin initialisation
+20141123 20:57:17 DEBUG Partie: 56 plaques dans la pioche
+20141123 20:57:17 DEBUG Partie: Ajout joueur Alexandra (Plaque debut: J01)
+20141123 20:57:17 DEBUG Partie: Ajout joueur Frederic (Plaque debut: J07)
+20141123 20:57:17 DEBUG Partie: Ajout joueur Clemence (Plaque debut: J13)
+20141123 20:57:17 DEBUG Partie: Ajout joueur Axel (Plaque debut: B12)
+20141123 21:07:55 DEBUG Partie: Debut initialisation
+20141123 21:07:55 TRACE Partie: Ajout plaque 01_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 01_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 01_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 01_NOIR
+20141123 21:07:55 TRACE Partie: Ajout plaque 02_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 02_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 02_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 02_NOIR
+20141123 21:07:55 TRACE Partie: Ajout plaque 03_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 03_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 03_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 03_NOIR
+20141123 21:07:55 TRACE Partie: Ajout plaque 04_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 04_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 04_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 04_NOIR
+20141123 21:07:55 TRACE Partie: Ajout plaque 05_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 05_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 05_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 05_NOIR
+20141123 21:07:55 TRACE Partie: Ajout plaque 06_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 06_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 06_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 06_NOIR
+20141123 21:07:55 TRACE Partie: Ajout plaque 07_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 07_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 07_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 07_NOIR
+20141123 21:07:55 TRACE Partie: Ajout plaque 08_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 08_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 08_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 08_NOIR
+20141123 21:07:55 TRACE Partie: Ajout plaque 09_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 09_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 09_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 09_NOIR
+20141123 21:07:55 TRACE Partie: Ajout plaque 10_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 10_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 10_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 10_NOIR
+20141123 21:07:55 TRACE Partie: Ajout plaque 11_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 11_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 11_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 11_NOIR
+20141123 21:07:55 TRACE Partie: Ajout plaque 12_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 12_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 12_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 12_NOIR
+20141123 21:07:55 TRACE Partie: Ajout plaque 13_ROUGE
+20141123 21:07:55 TRACE Partie: Ajout plaque 13_BLEU
+20141123 21:07:55 TRACE Partie: Ajout plaque 13_JAUNE
+20141123 21:07:55 TRACE Partie: Ajout plaque 13_NOIR
+20141123 21:07:55 DEBUG Partie: Fin initialisation
+20141123 21:07:55 FATAL Main: Exception: Erreur d'initialisation de la pioche (nb de plaques = 52 au lieu de 56
+20141123 21:11:13 DEBUG Partie: Debut initialisation
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 01_ROUGE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 01_BLEU
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 01_JAUNE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 01_NOIR
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 02_ROUGE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 02_BLEU
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 02_JAUNE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 02_NOIR
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 03_ROUGE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 03_BLEU
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 03_JAUNE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 03_NOIR
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 04_ROUGE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 04_BLEU
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 04_JAUNE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 04_NOIR
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 05_ROUGE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 05_BLEU
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 05_JAUNE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 05_NOIR
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 06_ROUGE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 06_BLEU
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 06_JAUNE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 06_NOIR
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 07_ROUGE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 07_BLEU
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 07_JAUNE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 07_NOIR
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 08_ROUGE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 08_BLEU
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 08_JAUNE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 08_NOIR
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 09_ROUGE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 09_BLEU
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 09_JAUNE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 09_NOIR
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 10_ROUGE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 10_BLEU
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 10_JAUNE
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 10_NOIR
+20141123 21:11:13 TRACE Partie: Ajout 2 plaques 11_ROUGE
+20141123 21:11:14 TRACE Partie: Ajout 2 plaques 11_BLEU
+20141123 21:11:14 TRACE Partie: Ajout 2 plaques 11_JAUNE
+20141123 21:11:14 TRACE Partie: Ajout 2 plaques 11_NOIR
+20141123 21:11:14 TRACE Partie: Ajout 2 plaques 12_ROUGE
+20141123 21:11:14 TRACE Partie: Ajout 2 plaques 12_BLEU
+20141123 21:11:14 TRACE Partie: Ajout 2 plaques 12_JAUNE
+20141123 21:11:14 TRACE Partie: Ajout 2 plaques 12_NOIR
+20141123 21:11:14 TRACE Partie: Ajout 2 plaques 13_ROUGE
+20141123 21:11:14 TRACE Partie: Ajout 2 plaques 13_BLEU
+20141123 21:11:14 TRACE Partie: Ajout 2 plaques 13_JAUNE
+20141123 21:11:14 TRACE Partie: Ajout 2 plaques 13_NOIR
+20141123 21:11:14 DEBUG Partie: Fin initialisation
+20141123 21:11:14 DEBUG Partie: 106 plaques dans la pioche
+20141123 21:11:14 DEBUG Partie: Ajout joueur Alexandra (Plaque debut: 11_ROUGE)
+20141123 21:11:14 DEBUG Partie: Ajout joueur Frederic (Plaque debut: 01_ROUGE)
+20141123 21:11:14 DEBUG Partie: Ajout joueur Clemence (Plaque debut: 05_BLEU)
+20141123 21:11:14 DEBUG Partie: Ajout joueur Axel (Plaque debut: 09_ROUGE)
+20141210 15:44:49 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:44:49 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:46:09 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:46:09 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:46:50 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 15:46:50 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:46:50 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:46:50 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:47:47 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 15:47:47 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:47:47 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:47:47 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:48:35 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 15:48:35 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:48:35 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:48:35 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:50:03 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 15:50:03 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:50:03 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:50:03 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:50:36 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 15:50:36 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:50:36 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:50:36 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:51:07 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 15:51:07 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:51:07 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:51:07 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:51:47 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 15:51:47 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:51:47 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:51:47 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:53:55 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 15:53:55 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:53:55 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:53:55 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:54:45 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 15:54:45 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:54:45 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:54:45 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:56:34 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 15:56:34 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:56:34 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:56:34 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:58:36 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 15:58:36 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 15:58:36 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 15:58:36 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 18:07:24 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 18:07:24 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 18:07:24 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 18:07:24 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 18:11:56 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 18:11:56 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 18:11:56 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 18:11:56 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 18:12:21 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141210 18:12:21 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141210 18:12:21 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141210 18:12:21 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141224 17:02:20 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141224 17:02:20 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141224 17:02:20 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141224 17:02:20 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141224 17:11:29 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE 07_ROUGE 08_ROUGE 09_ROUGE 10_ROUGE 11_ROUGE 12_ROUGE 13_ROUGE
+20141224 17:11:29 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
+20141224 17:11:29 INFO  TestSequence: 04_ROUGE 05_ROUGE 06_ROUGE
+20141224 17:11:29 INFO  TestSequence: 01_ROUGE 02_ROUGE 03_ROUGE
